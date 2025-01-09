@@ -1,0 +1,16 @@
+{
+  "name": "11.node",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "This is a project which gives you random superhero and supervillians",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sabarishwaran",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^4.0.0",
+    "supervillains": "^4.0.0"
+  }
+}
